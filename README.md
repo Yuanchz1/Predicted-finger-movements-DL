@@ -1,7 +1,7 @@
 **Predict Finger Movements | University of Pennsylvania**                                                                       
 **4th BCI Competition | Jan. 2024 – May. 2024**
 
-•	Predicted finger flexion patterns using intracranial EEG (ECoG) data from three human subjects, achieving a correlation of **0.5610** and surpassing competition checkpoints (r > 0.33, 0.45).
+•	Predicted finger flexion patterns using **intracranial EEG (ECoG) data** from three human subjects, achieving a correlation of **0.5610** and surpassing competition checkpoints (r > 0.33, 0.45).
 
 •	Preprocessed ECoG signals with various filters **extracted optimal features**, and applied machine learning models (Optimal Linear Decoder, Linear Regression, Random Forest, **Gradient Boosting**, and LSTM) for analysis.
 
