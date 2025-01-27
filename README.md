@@ -9,3 +9,5 @@ Brain-Computer Interface | Philadelphia, Pennsylvania, USA
 •	Implemented algorithms including Optimal Linear Decoder, Linear Regression, Random Forest, Gradient Boosting, and LSTM to improve accuracy and reduce overfitting.
 
 ![image](https://github.com/user-attachments/assets/13db660e-2ad5-4f97-800d-01d6d9b88217)
+
+**We are eager to explore how deep learning models can further enhance correlation performance and look forward to sharing our progress!**
